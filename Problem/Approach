@@ -1,0 +1,3 @@
+Use stack to store opening brackets.
+Whenever closing bracket comes, check if top of stack matches the correct pair.
+If mismatch or stack empty → invalid. Finally stack must be empty.
